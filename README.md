@@ -3,7 +3,7 @@ Downloadprogress Interceptor
 
 An [OkHttp interceptor][1] which monitors download progress of HTTP response data.
 
-[![](https://jitpack.io/v/jobinlawrance/okhttp3-downloadprogress-interceptor.svg)](https://jitpack.io/#jobinlawrance/okhttp3-downloadprogress-interceptor)
+[![](https://jitpack.io/v/cliabhach/okhttp3-downloadprogress-interceptor.svg)](https://jitpack.io/#cliabhach/okhttp3-downloadprogress-interceptor)
 
 ## Download  
 Downloadprogress Interceptor is available on [Jitpack][2]  
@@ -17,7 +17,7 @@ repositories {
 and the dependency in the build.gradle of the module:  
 ```gradle
 dependencies {
-    compile 'com.github.jobinlawrance:okhttp3-downloadprogress-interceptor:1.0.1'
+    compile 'com.github.cliabhach:okhttp3-downloadprogress-interceptor:1.0.1'
 }
 ```  
 
